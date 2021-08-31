@@ -5,4 +5,4 @@ Prepare BuiltIn wardrobe component.
 - In insert mode allow for both walls beeing selected to spread wardrobe between them.
 - Add depth slider to chande wardrobe depth
 
-![Wardrobe.JPG]
+!(Wardrobe.JPG)
