@@ -1,5 +1,7 @@
 # 16-Wardrobe_element
 
+[Development repository](https://github.com/homyplan/react-planner-alt)
+
 Prepare BuiltIn wardrobe component.
 - Create Insert builtin wardrobe button to enter insert element mode
 - In insert mode allow for both walls beeing selected to spread wardrobe between them.
