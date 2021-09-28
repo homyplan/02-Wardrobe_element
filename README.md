@@ -9,6 +9,8 @@ Prepare BuiltIn wardrobe component.
 
 ![Wardrobe](Wardrobe.JPG)
 
+![Wardrobe_02](Wardrobe_02.PNG)
+
 [Figma mockup](https://www.figma.com/file/lEGBrtmHrIjOwbRCBT2yhE/Wardrobe?node-id=0%3A1)
 
 [Slideshow PDF](Wardrobe.pdf)
