@@ -21,7 +21,7 @@ In the future deleting wall connected with the wardrobe will trigger the popup w
 
 ![Wardrobe_01-03](W1-3.JPG)
 
-![Wardrobe_05](Wardrobe_05.JPG)
+![Wardrobe_05](Wardrobe_05.jpg)
 
 [Figma mockup](https://www.figma.com/file/lEGBrtmHrIjOwbRCBT2yhE/Wardrobe?node-id=0%3A1)
 
